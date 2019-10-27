@@ -1,0 +1,13 @@
+$ pkg update && upgrade
+$ pkg install git
+$ pkg install php
+$ pkg install curl
+$ pkg install openssh
+$ pkg install python python2
+$ git clone https://github.com/thelinuxchoice/locator
+$ ls
+$ cd locator
+$ ls
+$ bash locator.sh
+Ketik Nomor [1] enter.
+Terus Ketik Nomor[1122]
